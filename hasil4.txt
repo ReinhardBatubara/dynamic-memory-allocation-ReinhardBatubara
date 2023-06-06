@@ -1,0 +1,14 @@
+12S22999|Wiro Sableng|2022|Information Systems|0.00
+12S22999|Wiro Sableng|2022|Information Systems|0.00
+12S22998|Jaka Sembung|2022|Information Systems|0.00
+12S1102|Visual Programming|2|D
+12S1102|Visual Programming|2|D
+10S1002|Procedural Programming|2|C
+12S22999|Wiro Sableng|2022|Information Systems|0.00
+12S22998|Jaka Sembung|2022|Information Systems|0.00
+12S22998|Jaka Sembung|2022|Information Systems|0.00
+12S1102|Visual Programming|2|D
+10S1002|Procedural Programming|2|C
+10S1002|Procedural Programming|2|C
+12S22999|Wiro Sableng|2022|Information Systems|0.00
+12S1102|Visual Programming|2|D

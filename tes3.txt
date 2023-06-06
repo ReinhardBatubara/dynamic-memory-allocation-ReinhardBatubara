@@ -1,0 +1,13 @@
+create-student#12S22999#Wiro Sableng#2022#Information Systems
+print-students
+create-student#12S22998#Jaka Sembung#2022#Information Systems
+print-students
+create-course#12S1102#Visual Programming#2#D
+print-courses
+create-course#10S1002#Procedural Programming#2#C
+print-courses
+print-students
+find-student-by-id#12S22998
+print-courses
+find-student-by-id#12S22999
+---
